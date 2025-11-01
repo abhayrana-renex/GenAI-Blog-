@@ -1,11 +1,12 @@
- Environment and cache
+# Ignore environments and system files
 venv/
 __pycache__/
 .DS_Store
 
-# Model and large files
+# Ignore large models
 models/
 *.gguf
 *.bin
 *.pt
 *.safetensors
+*.zip
