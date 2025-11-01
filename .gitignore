@@ -1,6 +1,11 @@
+ Environment and cache
 venv/
 __pycache__/
+.DS_Store
+
+# Model and large files
 models/
-.DS_Storegit add .gitignore
-git commit -m "Ignore large model files"
-git push -u origin main
+*.gguf
+*.bin
+*.pt
+*.safetensors
