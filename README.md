@@ -32,6 +32,9 @@ Just provide your **topic, style, tone, word count**, and the app crafts a **str
 | 🐍 **Python 3.10+** | Core programming language |
 
 ---
+## 📸 Interface Preview
+
+<img width="1280" height="800" alt="Screenshot 2025-11-01 at 9 36 28 PM" src="https://github.com/user-attachments/assets/688240a0-ab6d-4ca5-a3d5-a319a1b90f1e" />
 
 ## ⚙️ **Installation & Setup**
 
@@ -56,7 +59,6 @@ GenAI-Blog-/
 ├── .gitignore              # Ignore unnecessary files
 └── README.md               # Project documentation
 
-📸 Interface Preview
 
 📦 Model Configuration
 
