@@ -1,4 +1,6 @@
 venv/
 __pycache__/
 models/
-.DS_Store
+.DS_Storegit add .gitignore
+git commit -m "Ignore large model files"
+git push -u origin main
